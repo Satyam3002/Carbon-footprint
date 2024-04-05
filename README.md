@@ -1,2 +1,2 @@
 
-## HackJNU 3.0 Submission
+## CARBON FOOTPRINT CALCULATOR
